@@ -1,0 +1,29 @@
+.container {
+	width: 1024px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.news-area {
+	text-align: center;
+	min-height: 300px;
+	margin: 0 auto;
+}
+
+.news-table {
+	margin: 50px auto;
+}
+
+.news-table td{
+	height: 50px;
+	width: 300px;
+	border: 1px solid black;
+}
+
+.center-align {
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
